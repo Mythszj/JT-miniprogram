@@ -29,6 +29,11 @@
     <view class="mine">
         <navigator class="app_info_item">捐赠 && 捐赠记录</navigator>
     </view>
+    <view class="mine">
+        <!-- 联系客服
+        <button open-type="feedback"></button> -->
+        <navigator url="/pages/shangchang/shangchang" class="app_info_item">简碳商场</navigator>
+    </view>
     <view class="mine contact">
         联系客服
         <button open-type="feedback"></button>
